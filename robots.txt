@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bulbulsingh.vercel.app/sitemap.xml
